@@ -1,2 +1,2 @@
 # Project
-Here are some of my projects in which i have created apps functions
+Here are some of my projects in java, Python
